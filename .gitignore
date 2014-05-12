@@ -87,3 +87,8 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+#Backups and temporaries
+*~
+*.*~*
+*.backup
